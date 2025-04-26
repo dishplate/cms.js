@@ -1,4 +1,4 @@
-/*! @chrisdiana/cmsjs v2.0.1 | MIT (c) 2021 Chris Diana | https://github.com/chrisdiana/cms.js */
+/*! @chrisdiana/cmsjs v2.0.1 | MIT (c) 2025 Chris Diana | https://github.com/chrisdiana/cms.js */
 function _classCallCheck(instance, Constructor) {
   if (!(instance instanceof Constructor)) {
     throw new TypeError("Cannot call a class as a function");
